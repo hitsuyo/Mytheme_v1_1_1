@@ -327,7 +327,7 @@ function my_enqueue_scripts() {
 
 	   wp_enqueue_style( 'style', get_stylesheet_uri() ); //important
 
-
+    //Enqueuing scripts; true: load js in footer, false: not load in footer
 	wp_enqueue_script('jquery', get_template_directory_uri() . '/assets/js/jquery-3.0.0.min.js' , array('jquery'), '3.3.0', true); // default
 	wp_enqueue_script('jquery', get_template_directory_uri() . '/assets/js/jquery-3-3-1.js' , array('jquery'), '3.3.1', true); // default
 

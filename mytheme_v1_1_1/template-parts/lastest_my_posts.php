@@ -154,6 +154,9 @@ $the_query = new WP_Query( $args );
         filter: brightness(40%);
         /* transform: scale(1.1); low speed */
         -webkit-transition: 0.2s; /*For Safari 3.1 to 6.0 */
+		-ms-transition: 0.2s;
+		-moz-transition: 0.2s;
+		-o-transition: 0.2s;
         transition: 0.2s;
         
         overflow: hidden;
