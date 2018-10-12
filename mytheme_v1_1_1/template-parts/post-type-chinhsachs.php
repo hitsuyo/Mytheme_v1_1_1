@@ -20,7 +20,7 @@ $the_query = new WP_Query( $args );
                 echo '<ul class="list-chinhsach ">';
                 while ( $the_query->have_posts() ) {
                     $the_query->the_post();
-                    echo '<li class="col s12 m4 style="border-radius: 50%;">';
+                    echo '<li class="col s12 m4" style="border-radius: 50%;">';
                         echo '<div>' . the_post_thumbnail('thumbnail') .'</div>';
                         // echo '<div>' . get_the_title() . '</div>';
                         echo '<div><a style="color: white; margin-left: 20%;" href="'.get_the_permalink($post->ID).'">' . get_the_title() . '</a></div>';

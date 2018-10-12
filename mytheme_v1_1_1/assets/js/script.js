@@ -38,8 +38,8 @@ var currentScrollPos = window.pageYOffset;
     document.getElementById("logo-and-nav").style.top = "0";
   } else {
     // document.getElementById("logo-and-nav").style.top = "-10px";
-    document.getElementById("logo-and-nav").style.top = "-50px";
-    // document.getElementById("logo-and-nav").style.top = "0";
+    // document.getElementById("logo-and-nav").style.top = "-50px";
+    document.getElementById("logo-and-nav").style.top = "0";
   }
   prevScrollpos = currentScrollPos;
 }

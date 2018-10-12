@@ -8,7 +8,7 @@
 
                 <div class="row" id="footer-menu" style="height: 100%; ">
 
-                        <div class="bottom-menu col s12" id="bottom-menu-ID" style="z-index: ; ">
+                        <div class="bottom-menu col s12" id="bottom-menu-ID" >
 
                                 <!-- <php wp_nav_menu( array( 'theme_location' => 'my-main-menu', 'container_class' => 'my-custom-main-menu-class' ) ); ?> -->
 
@@ -21,8 +21,9 @@
                         </div>
 
                 </div>
-                <a id="btn_Home" href="" ><img style="width: 32px; height: 32px; " src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/house-black-building-shape.png"/></a>
-                <!-- <button id="myBtnScrollTop" onclick="scrollToTop()"><img width="32px" height="32px" src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/top-up.png"/></button> -->
+                <a id="btn_Home" href="" ><img style="width: 32px; height: 32px; " src="http://somewhere/wp-content/uploads/2018/08/house-black-building-shape.png" alt="home"/></a>
+                <button id="btn_Home" ><img style="width: 100%; height: 100%; margin-top: -0.5px;" src="http://somewhere/wp-content/uploads/2018/08/house-black-building-shape.png" alt="home" /></button>
+                <!-- <button id="myBtnScrollTop" onclick="scrollToTop()"><img width="32px" height="32px" src="http://something/wp-content/uploads/2018/08/top-up.png"/></button> -->
                 <style>
                 #btn_Home img{margin-top: 10px;}
                 #btn_Home:hover{opacity: 0.7;}
@@ -97,7 +98,7 @@
 
                         <div class="copyright" >
 
-                        <?php _e('Copyright © ', 'VNPMEDIA'); ?><?php echo date('Y');?> <?php bloginfo( 'sitename' ); ?><?php _e(', All Rights Reserved.', 'VNPMEDIA'); ?>
+                        <?php _e('Copyright © ', 'Website name'); ?><?php echo date('Y');?> <?php bloginfo( 'sitename' ); ?><?php _e(', All Rights Reserved.', 'Website name'); ?>
 
                         </div>
 

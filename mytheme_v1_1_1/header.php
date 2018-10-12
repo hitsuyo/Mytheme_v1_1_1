@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="vi">
 
 
  <body>
     <!-- button scroll top -->
-    <button id="myBtnScrollTop" onclick="scrollToTop()"><img width="32px" height="32px" src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/top-up.png"/></button>
+    <button id="myBtnScrollTop" onclick="scrollToTop()"><img width="32px" height="32px" src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/top-up.png" alt="scroll-to-top-Button"/></button>
     <style>
         #myBtnScrollTop{
             display: none;
@@ -76,7 +76,7 @@
 
                     $logo= get_theme_mod('logo');
 
-                        if(!empty($logo)) {echo '<a href="'.get_home_url().'"><img src="'.$logo.'" /></a>';}
+                        if(!empty($logo)) {echo '<a href="'.get_home_url().'"><img src="'.$logo.'" alt="logo" /></a>';}
 
                 ?>
 

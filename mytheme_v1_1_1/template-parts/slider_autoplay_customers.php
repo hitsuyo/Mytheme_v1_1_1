@@ -4,19 +4,19 @@
   <!-- <p  class="control_prev" id="control_prev-ID"><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_left_arrow_476327.png" width="100%" height="100%"/></p>
   <p  class="control_next" id="control_next-ID"><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_right_arrow_476325.png" width="100%" height="100%"/></p> -->
   <ul>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Windows_381390.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Google_2015_logo_720098.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_social_media_social_media_logo_github_2_2993772.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_social_media_logo_pinterest_1078772.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Ebay_289105.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_logo_brand_brands_logos_linux_2993682.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_logo_brand_brands_logos_firefox_2993692.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Line_289122.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if__shopping_1156660.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/google-plus-940316_640.png" class="responsive-img"></li>
-    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" class="responsive-img"></li> 
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Windows_381390.png" alt="microsoft" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Google_2015_logo_720098.png" alt="google" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_social_media_social_media_logo_github_2_2993772.png" alt="github" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_social_media_logo_pinterest_1078772.png" alt="pinterest" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" alt="demo" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Ebay_289105.png" alt="ebay" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_logo_brand_brands_logos_linux_2993682.png" alt="linux" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_logo_brand_brands_logos_firefox_2993692.png" alt="firefox" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if_Line_289122.png" alt="line" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/if__shopping_1156660.png" alt="shopping" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" alt="demo" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/google-plus-940316_640.png" alt="g-plus" class="responsive-img"></li>
+    <li><img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/delivery-e1535516367522.jpg" alt="demo" class="responsive-img"></li> 
   </ul> 
 </div>
 

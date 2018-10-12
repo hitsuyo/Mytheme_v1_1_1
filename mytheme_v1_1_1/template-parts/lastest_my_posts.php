@@ -73,7 +73,7 @@ $the_query = new WP_Query( $args );
                     .cvf-universal-pagination  ul li.selected {background: #1E8CBE; color: white;}
                 </style>
 
-                <script type="text/javascript">
+                <script>
                     jQuery(document).ready(function(jQuery) {
                         // This is required for AJAX to work on our page
                         var ajaxurl = '<?php echo admin_url('admin-ajax.php'); ?>';

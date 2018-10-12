@@ -74,7 +74,8 @@ get_header();
                                 <li style="color: white;  font-size: 1.6rem;">Liên hệ với chúng tôi ngay!</li>
                             </ul>
                         </p>
-                        <button style="z-index: 3; background-color: black;"><p style="color: white;">CHI TIẾT</p></button>
+                        <!-- <button style="z-index: 3; background-color: black;"><p style="color: white;">CHI TIẾT</p></button> -->
+                        <button style="z-index: 3; background-color: black; color: white;">CHI TIẾT</button> <!--W3C-->
                     </div>
                     <!-- <div class="col s12 m6 l1"></div> -->
                     <div class="col s12 m6 l3 offset-l1" style="display: inline-block; width:250px; height: 250px;  border-radius: 50%; border: 20px solid #FFBA96; 
@@ -157,7 +158,7 @@ get_header();
             <div class="tuyen_dung container" style="z-index: 1;">
                 <br>
                 <p class="" style="font-weight: bold; text-align: center; font-size: 2.8rem;">TUYỂN DỤNG</p>
-                <img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/megaphone-1468168_1920.png" width="20%" height="auto"/>
+                <img src="http://demo.smnet.vn/quangcaotaxi/wp-content/uploads/2018/08/megaphone-1468168_1920.png" alt="s" width="20%" height="auto"/>
                 <br>
                 <span>Nhân viên bán hàng</span>
                 <p>Nhân viên bán hàng hỗ trợ khách hàng chọn sản phẩm và duy trì dịch vụ khách hàng tốt. 

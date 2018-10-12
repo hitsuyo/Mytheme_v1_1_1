@@ -216,7 +216,7 @@
                     var ajaxUrl = "<?php echo admin_url('admin-ajax.php')?>";
 
                                 // icon loading before load data
-                            jQuery('.post_taxonomy').html('<img style="width: 32px;" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif" >');
+                            jQuery('.post_taxonomy').html('<img style="width: 32px;" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif" alt="loading" >');
                             jQuery.ajax( {
                                     url: ajaxUrl,
                                     type: 'post',
@@ -243,7 +243,7 @@
                     // jQuery("button.taximailinh").on("click",function(){ // When btn is pressed.
                             // alert('Clicked');
 
-                            jQuery('.post_taxonomy').html('<img style="margin-left: 49%; width: 32px;" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif">');
+                            jQuery('.post_taxonomy').html('<img style="margin-left: 49%; width: 32px;" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif" alt="loading" >');
                             jQuery.ajax( {
                                     url: ajaxUrl,
                                     type: 'post',
@@ -268,7 +268,7 @@
                 var ajaxUrl = "<?php echo admin_url('admin-ajax.php')?>";
                         // alert('clicked');
 
-                        jQuery('.post_taxonomy').html('<img style="" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif">');
+                        jQuery('.post_taxonomy').html('<img style="" src="http://something.vn/wp-content/uploads/2018/08/ezgif.com-gif-maker.gif" alt="loading" >');
                         jQuery.ajax( {
                                 url: ajaxUrl,
                                 type: 'post',
