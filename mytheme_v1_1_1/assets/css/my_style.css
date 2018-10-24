@@ -18,6 +18,9 @@
 /* .main-index {} */
 
 
+html {
+    -webkit-text-size-adjust: none;
+}
 
 .bg-header{
 
@@ -516,7 +519,7 @@ ul.social-icons li a img:hover {filter: brightness(50%);}
 
 /* @media (max-width: 1100px) {div#slider{width: 52%;} div#slider ul{margin-left: 0;}} */
 
-
+@media (min-width: 1080px) {}
 
 @media (min-width: 1240px) {
 

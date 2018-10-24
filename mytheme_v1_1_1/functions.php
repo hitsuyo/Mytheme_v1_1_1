@@ -200,7 +200,12 @@ function mytheme_content_width() {
 
 add_action( 'after_setup_theme', 'mytheme_content_width', 0 );
 
-
+// ------------------------------
+// Turn off 'Commnent' because not using commnent on website
+function comments_clean_header_hook(){
+ wp_deregister_script( 'comment-reply' );
+ }
+add_action('init','comments_clean_header_hook');
 
 
 
