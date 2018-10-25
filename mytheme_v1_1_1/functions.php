@@ -225,7 +225,7 @@ include 'inc/main_menu_s3.php';
 
 include 'inc/create_side_bar.php';
 
-// include 'inc/setting.php';
+include 'inc/setting.php';
 include 'inc/setting_from_plugin.php';
 
 include 'inc/init.php';
