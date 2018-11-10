@@ -6,6 +6,7 @@
 
  Template Name: Index 2
 
+One page website
 
 */
 
